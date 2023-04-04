@@ -1,0 +1,79 @@
+2022-06-29 18:29:10,810 [main] INFO TicketType - passed
+2022-06-29 18:37:06,095 [main] INFO TicketType - passed
+2022-07-05 11:56:34,248 [main] INFO TicketType - TC is passed
+2022-07-05 12:35:27,736 [main] INFO TicketType - TC is passed
+2022-07-05 12:40:00,166 [main] INFO TicketType - TC is passed
+2022-07-05 12:43:01,394 [main] INFO TicketType - TC is passed
+2022-07-05 12:47:23,956 [main] INFO TicketType - TC is passed
+2022-07-05 12:55:29,349 [main] INFO TicketType - TC is passed
+2022-07-05 13:03:41,968 [main] INFO TicketType - TC is passed
+2022-07-05 13:10:23,287 [main] INFO TicketType - TC is passed
+2022-07-05 14:32:59,711 [main] INFO TicketType - TC is passed
+2022-07-07 17:25:24,028 [main] INFO TicketType - Test Case is failed
+2022-07-07 17:29:16,821 [main] INFO TicketType - Test_case is passed
+2022-07-07 17:33:14,148 [main] INFO TicketType - Test_case is passed
+2022-07-07 18:07:34,257 [main] INFO TicketType - Test_case is passed
+2022-07-07 18:40:39,426 [main] INFO TicketType - Test_case is passed
+2022-07-08 11:24:55,827 [main] INFO TicketType - Email id is valid
+2022-07-08 11:46:58,675 [main] INFO TicketType - Email id is valid
+2022-07-08 11:58:27,055 [main] INFO TicketType - Valid Contact number is entered
+2022-07-08 12:12:39,996 [main] INFO TicketType - Valid Contact number is entered
+2022-07-08 12:33:13,396 [main] INFO TicketType - Test case is failed & Invalid data is entered
+2022-07-08 12:40:47,863 [main] INFO TicketType - Test case is failed & Invalid data is entered
+2022-07-08 14:41:33,313 [main] INFO TicketType - Test case is failed
+2022-07-08 14:43:56,231 [main] INFO TicketType - Test case is failed
+2022-07-08 14:49:40,505 [main] INFO TicketType - Test case is failed
+2022-07-08 14:51:22,054 [main] INFO TicketType - Test case is failed
+2022-07-08 14:55:53,321 [main] INFO TicketType - Test case is failed
+2022-07-08 14:57:59,310 [main] INFO TicketType - Test case is failed
+2022-07-08 15:00:25,775 [main] INFO TicketType - Test case is failed
+2022-07-08 15:03:00,128 [main] INFO TicketType - Test case is failed
+2022-07-08 15:04:53,814 [main] INFO TicketType - Test case is failed
+2022-07-08 15:07:12,604 [main] INFO TicketType - Test case is failed
+2022-07-08 15:12:13,477 [main] INFO TicketType - Valid Contact number is entered
+2022-07-08 15:13:58,815 [main] INFO TicketType - Valid Contact number is entered
+2022-07-08 15:16:17,802 [main] INFO TicketType - Valid Contact number is entered
+2022-07-08 15:17:53,896 [main] INFO TicketType - InValid Contact number is entered
+2022-07-08 15:22:07,199 [main] INFO TicketType - Valid Contact number is entered
+2022-07-08 15:24:28,477 [main] INFO TicketType - Test case is failed
+2022-07-08 15:25:19,627 [main] INFO TicketType - Valid Contact number is entered
+2022-07-08 15:27:47,366 [main] INFO TicketType - Test case is failed
+2022-07-08 15:30:38,648 [main] INFO TicketType - Test case is failed
+2022-07-08 15:33:21,179 [main] INFO TicketType - Test case is failed
+2022-07-08 15:49:37,357 [main] INFO TicketType - Test case is failed
+2022-07-11 12:33:51,635 [main] INFO TicketType - Test case of adress validation is passed
+2022-07-11 12:35:51,055 [main] INFO TicketType - Email id is valid
+2022-07-11 12:36:44,160 [main] INFO TicketType - Test case is failed
+2022-07-11 12:38:38,477 [main] INFO TicketType - Valid Contact number is entered
+2022-07-11 12:45:25,847 [main] INFO TicketType - Test case of adress validation is passed
+2022-07-11 12:47:26,375 [main] INFO TicketType - Email id is valid
+2022-07-11 12:48:20,397 [main] INFO TicketType - Test case is failed
+2022-07-11 12:50:14,719 [main] INFO TicketType - Valid Contact number is entered
+2022-07-11 12:52:28,749 [main] INFO TicketType - TC is passed
+2022-07-11 13:26:26,125 [main] INFO TicketType - Email id is valid
+2022-07-11 13:27:15,029 [main] INFO TicketType - Valid Contact number is entered
+2022-07-11 13:28:06,158 [main] INFO TicketType - Test case of adress validation is passed
+2022-07-11 13:28:57,235 [main] INFO TicketType - Test case is failed
+2022-07-11 13:31:03,664 [main] INFO TicketType - TC is passed
+2022-07-11 17:01:51,897 [main] INFO TicketType - Email id is valid
+2022-07-11 17:02:42,973 [main] INFO TicketType - Valid Contact number is entered
+2022-07-11 17:03:35,951 [main] INFO TicketType - Test case of adress validation is passed
+2022-07-11 17:04:29,075 [main] INFO TicketType - Test case is failed
+2022-07-11 17:06:41,822 [main] INFO TicketType - TC is passed
+2022-07-12 12:58:59,580 [main] INFO TicketType - Email id is valid
+2022-07-12 12:59:50,382 [main] INFO TicketType - Valid Contact number is entered
+2022-07-12 13:00:43,400 [main] INFO TicketType - Test case of adress validation is passed
+2022-07-12 13:01:36,408 [main] INFO TicketType - Test case is failed
+2022-07-12 13:03:48,767 [main] INFO TicketType - TC is passed
+2022-07-12 16:53:10,472 [main] INFO TicketType - Email id is valid
+2022-07-12 16:54:00,661 [main] INFO TicketType - Valid Contact number is entered
+2022-07-12 16:54:53,451 [main] INFO TicketType - Test case of adress validation is passed
+2022-07-12 16:55:46,091 [main] INFO TicketType - Test case is failed
+2022-07-12 16:57:55,972 [main] INFO TicketType - TC is passed
+2022-07-14 15:39:17,280 [main] INFO TicketType - Email id is valid
+2022-07-14 15:40:07,695 [main] INFO TicketType - Valid Contact number is entered
+2022-07-14 15:41:00,173 [main] INFO TicketType - Test case of adress validation is passed
+2022-07-14 15:41:52,599 [main] INFO TicketType - Test case is failed
+2022-07-14 15:44:02,742 [main] INFO TicketType - TC is passed
+2022-08-18 16:31:05,090 [main] INFO TicketType - TC is passed
+2022-10-05 17:26:22,473 [main] INFO TicketType - TC is passed
